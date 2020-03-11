@@ -1,3 +1,5 @@
 *.cfg
 /cache/
 /resources/\[local\]/
+resources/\[models\]/
+resources/\[scripts\]/
